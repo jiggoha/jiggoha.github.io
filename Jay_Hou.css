@@ -1,0 +1,67 @@
+body {
+    background-color: #15005E;
+    font-family: Palatino Linotype;
+    color: #E3E1E8;
+}
+
+h1 {
+    font-weight: bold;
+    font-size: 50px;
+    text-align: center;
+    border-style: dotted;
+    padding: 10px;
+    clear: both;
+    background-color: #00346A;
+}
+
+#info {
+    border-style: dotted;
+    padding: 15px;
+    background-color: #00346A;
+}
+
+#dropdown {
+    margin: 20px;
+    padding-left: 20px;
+    padding-top: 5px;
+}
+
+#entryway {
+    margin: 20px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 15px;
+}
+
+#room_image {
+    border: 8px solid black;
+    margin-top: 20px;
+    padding-bottom: 0px;
+}
+
+#contact_info {
+    border: 8px solid black;
+    margin-top: 10px;
+    padding-left: 20px;
+    background-color: #00346A;
+}
+
+.menu {
+    float:left;
+    padding-right: 20px;
+    padding-left: 20px;
+    vertical-align: middle;
+}
+
+#menu {
+    border: black 5px solid;
+    background-color: #00346A;
+    display: table-cell;
+    vertical-align: middle;
+}
